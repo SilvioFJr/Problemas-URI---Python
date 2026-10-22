@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-
-'''
-Escreva a sua solução aqui
-Code your solution here
-Escriba su solución aquí
-'''
 a = input().split()
 a1 = int(a[0])
 a2 = int(a[1])

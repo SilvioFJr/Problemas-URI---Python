@@ -15,7 +15,7 @@ if med >= 7.0:
 elif med < 5.0:
     print('Media: {:.1f}'.format(med))
     print('Aluno reprovado.')
-elif med >= 5.0 and med < 6.9:
+else:  # 5.0 <= media < 7.0
     print('Media: {:.1f}'.format(med))
     print('Aluno em exame.')
     ex = input()

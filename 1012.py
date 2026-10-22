@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-
-'''
-Escreva a sua solução aqui
-Code your solution here
-Escriba su solución aquí
-'''  # Área 1112
+# Área ... 1012
 
 base = input().split()
 pi = 3.14159

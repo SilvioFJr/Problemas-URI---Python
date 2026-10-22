@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-
-'''
-Escreva a sua solução aqui
-Code your solution here
-Escriba su solución aquí
-'''
-
-
 # Conversão de tempo 1019
 
 x = int(input())  # tempo em segundos

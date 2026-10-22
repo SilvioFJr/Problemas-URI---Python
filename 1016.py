@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-
-'''
-Escreva a sua solução aqui
-Code your solution here
-Escriba su solución aquí
-'''
-
 # Distância entre dois carros em movimento.. 1016
 
 x = 60

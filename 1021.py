@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-
-'''
-Escreva a sua solução aqui
-Code your solution here
-Escriba su solución aquí
-'''  # Notas e Moedas....1021
+# Notas e Moedas....1021
 
 x = round(float(input()), 2)
 tam_notas = tam_moedas = 6

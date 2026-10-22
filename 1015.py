@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-
-'''
-Escreva a sua solução aqui
-Code your solution here
-Escriba su solución aquí
-'''  # Distância Entre Dois Pontos  1015
+# Distância Entre Dois Pontos  1015
 
 
 x = input().split()

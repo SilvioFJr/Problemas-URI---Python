@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-
-'''
-Escreva a sua solução aqui
-Code your solution here
-Escriba su solución aquí
-'''
-
-
 # Idade em Dias ...1020
 
 x = int(input())  # idade em dias
